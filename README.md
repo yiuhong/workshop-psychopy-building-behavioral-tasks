@@ -1,2 +1,4 @@
-# workshop-psychopy-building-behavioral-tasks
-Materials and files for the 'Building Behavioral Tasks with PsychoPy' workshop.
+# Building Behavioral Tasks with PsychoPy (2026) 🚀
+
+Welcome to the official repository for the workshop! This repository contains 
+all the slides, experiment files, and stimuli needed for the workshop.
